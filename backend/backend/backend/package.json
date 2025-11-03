@@ -5,7 +5,6 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "echo 'No build step required for Node.js backend'",
     "dev": "nodemon server.js",
     "seed": "node seed.js"
   },
@@ -17,8 +16,5 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
-  },
-  "engines": {
-    "node": "18.x"
   }
 }
