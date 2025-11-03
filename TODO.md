@@ -40,10 +40,10 @@
 - [x] Step 6: Seed Initial Data
 
 ## Remaining Steps:
-- [ ] Step 7: Test and Run
-  - [ ] Guide user to set up MongoDB Atlas and get connection string
-  - [ ] Update .env with actual MongoDB URI
-  - [ ] Run backend seed script
-  - [ ] Start backend server
-  - [ ] Test API endpoints
-  - [ ] Verify frontend persistence
+- [x] Step 7: Test and Run
+  - [x] Guide user to set up MongoDB Atlas and get connection string
+  - [x] Update .env with actual MongoDB URI
+  - [x] Run backend seed script
+  - [x] Start backend server
+  - [x] Test API endpoints
+  - [x] Verify frontend persistence
